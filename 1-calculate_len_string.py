@@ -1,0 +1,3 @@
+# 1.Write a Python program to calculate the length of a string.
+a=input('Enter any string\n')
+print(len(a))
